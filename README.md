@@ -46,7 +46,7 @@ The application supports 4 distinct roles with specific permissions:
     * Make sure JavaFX SDK 11 is configured in your library path.
     * Add VM Arguments if necessary:
         ```
-        --module-path "PATH_TO_JAVAFX_LIB" --add-modules javafx.controls,javafx.fxml
+       --module-path "E:\Others\openjfx-17.0.7_windows-x64_bin-sdk\javafx-sdk-17.0.7\lib" --add-modules javafx.controls
         ```
     * Run `main.Main` class (or `main.Launcher` if available).
 
