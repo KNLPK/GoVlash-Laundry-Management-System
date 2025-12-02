@@ -50,9 +50,4 @@ The application supports 4 distinct roles with specific permissions:
         ```
     * Run `main.Main` class (or `main.Launcher` if available).
 
-## 📸 Screenshots
-*(Optional: Anda bisa upload screenshot aplikasi di sini nanti)*
-
----
-**Created by:** [Nama Anda] & [Nama Teman Kelompok]
 **Course:** Object Oriented Analysis & Design (COMP6115)
